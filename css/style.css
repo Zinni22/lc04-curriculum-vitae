@@ -1,0 +1,25 @@
+body{
+    width:70%;
+    margin:0 auto;
+}
+
+header{
+    background-color: lightgray;
+    text-align: center;
+    border-bottom:3px solid gold;
+}
+.yellow-text{
+    color: gold;
+}
+
+h3{
+    font-style:italic;
+}
+
+footer{
+   font-size:0.7em; 
+   /* è il 70% della dimensione del testo che in questo caso di default è 16px */
+}
+#footer-divider{
+    border: 1px solid gold;
+}
